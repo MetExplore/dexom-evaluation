@@ -1,0 +1,901 @@
+GENE_ID,GENE_SYMBOL,GENE_DESCRIPTION,LABEL_AEROBIC,LABEL_ANAEROBIC,IS_YDP_ESSENTIAL,IS_SGD_INVIABLE,IS_SGD_AUXOTROPH,IS_SGD_AEROBIC_DEFECTIVE,IS_SGD_ANAEROBIC_DEFECTIVE
+YDL205C,HEM3,HEMe biosynthesis,1,0,1,1,1,0,0
+YDR232W,HEM1,HEMe biosynthesis,1,0,1,1,1,0,0
+YDR376W,ARH1,Adrenodoxin Reductase Homolog,1,0,1,1,0,0,0
+YGL001C,ERG26,ERGosterol biosynthesis,1,0,1,1,0,0,0
+YGL040C,HEM2,HEMe biosynthesis,1,0,1,1,1,0,0
+YGR060W,ERG25,ERGosterol biosynthesis,1,0,1,1,1,0,0
+YGR175C,ERG1,ERGosterol biosynthesis,1,0,1,1,0,0,0
+YHR007C,ERG11,ERGosterol biosynthesis,1,0,1,1,1,0,0
+YHR042W,NCP1,NADP-Cytochrome P450 reductase,1,0,1,1,0,0,0
+YHR072W,ERG7,ERGosterol biosynthesis,1,0,1,1,1,0,0
+YHR190W,ERG9,ERGosterol biosynthesis,1,0,1,1,0,0,0
+YIL083C,CAB2,Coenzyme A Biosynthesis,1,0,1,1,0,0,0
+YJL167W,ERG20,ERGosterol biosynthesis,1,0,1,1,0,0,0
+YLR100W,ERG27,ERGosterol biosynthesis,1,0,1,1,1,0,0
+YML126C,ERG13,ERGosterol biosynthesis,1,0,1,1,0,0,0
+YMR208W,ERG12,ERGosterol biosynthesis,1,0,1,1,1,0,0
+YMR220W,ERG8,ERGosterol biosynthesis,1,0,1,1,1,0,0
+YNL280C,ERG24,ERGosterol biosynthesis,1,0,0,1,0,1,1
+YNR043W,MVD1,MeValonate pyrophosphate Decarboxylase,1,0,1,1,0,0,0
+YOR176W,HEM15,HEMe biosynthesis,1,0,1,1,0,0,0
+YOR278W,HEM4,HEMe biosynthesis,1,0,1,1,1,0,0
+YDR044W,HEM13,HEMe biosynthesis,1,0,1,1,0,0,0
+YDR047W,HEM12,HEMe biosynthesis,1,0,1,1,1,0,0
+YOR236W,DFR1,DihydroFolate Reductase,1,0,1,1,1,1,0
+YPL028W,ERG10,ERGosterol biosynthesis,1,0,1,1,0,0,0
+YPL117C,IDI1,Isopentenyl Diphosphate Isomerase,1,0,1,1,0,0,0
+Q0045,COX1,Cytochrome c OXidase,2,0,0,0,0,1,0
+YDL004W,ATP16,ATP synthase,2,0,1,1,0,1,0
+Q0080,ATP8,ATP synthase,2,0,0,0,0,0,0
+Q0085,ATP6,ATP synthase,2,0,0,0,0,0,0
+Q0105,COB,CytochrOme B,2,0,0,0,0,0,0
+Q0250,COX2,Cytochrome c OXidase,2,0,0,0,0,1,0
+Q0275,COX3,Cytochrome c OXidase,2,0,0,0,0,0,0
+YAL044C,GCV3,GlyCine cleaVage,2,0,0,0,0,1,0
+YAL054C,ACS1,Acetyl CoA Synthetase,2,0,0,0,0,1,0
+YBL013W,FMT1,Formyl-Methionyl-tRNA Transformylase,2,0,0,0,0,1,0
+YBL045C,COR1,CORe protein of QH2 cytochrome c reductase,2,0,0,0,0,1,0
+YBR003W,COQ1,COenzyme Q,2,0,0,0,0,1,0
+YBR021W,FUR4,5-FlUoRouridine sensitivity,2,0,0,0,0,1,0
+YBR026C,ETR1,2-Enoyl Thioester Reductase,2,0,0,0,1,1,0
+YBR035C,PDX3,PyriDoXine auxotrophy,2,0,0,0,0,1,0
+YBR084W,MIS1,MItochondrial C1-tetrahydrofolate Synthase,2,0,0,0,0,1,0
+YBR121C,GRS1,Glycyl-tRNA Synthase,2,0,0,1,0,0,0
+YBR221C,PDB1,Pyruvate Dehydrogenase Beta subunit,2,0,0,0,1,1,0
+YBR263W,SHM1,Serine HydroxyMethyltransferase,2,0,0,0,0,0,0
+YCL004W,PGS1,PhosphatidylGlycerolphosphate Synthase,2,0,0,1,0,1,0
+YCR024C,SLM5,Synthetic Lethal with Mss4,2,0,0,0,0,1,0
+YDL067C,COX9,Cytochrome c OXidase,2,0,0,0,0,1,0
+YDL142C,CRD1,CaRDiolipin synthase,2,0,0,0,0,1,0
+YDL185W,VMA1,Vacuolar Membrane Atpase,2,0,0,0,1,1,0
+YDL198C,GGC1,GDP/GTP Carrier,2,0,0,0,0,1,0
+YDR178W,SDH4,Succinate DeHydrogenase,2,0,0,0,0,1,0
+YDR204W,COQ4,COenzyme Q,2,0,0,0,0,1,0
+YDR268W,MSW1,"Mitochondrial aminoacyl-tRNA Synthetase, tryptophan (W)",2,0,0,0,0,1,0
+YDR298C,ATP5,ATP synthase,2,0,0,0,0,1,0
+YDR322C-A,TIM11,Translocase of the Inner Mitochondrial membrane,2,0,0,0,0,1,0
+YDR377W,ATP17,ATP synthase,2,0,0,0,0,1,0
+YDR529C,QCR7,ubiQuinol-cytochrome C oxidoReductase,2,0,0,0,0,1,0
+YEL024W,RIP1,Rieske Iron-sulfur Protein,2,0,0,0,0,1,0
+YEL029C,BUD16,BUD site selection,2,0,0,0,1,1,0
+YER014W,HEM14,HEMe biosynthesis,2,0,0,0,0,1,0
+YER019W,ISC1,Inositol phosphoSphingolipid phospholipase C,2,0,0,0,0,1,0
+YER056C,FCY2,FluoroCYtosine resistance,2,0,0,0,0,1,0
+YER061C,CEM1,Condensing Enzyme with Mitochondrial function,2,0,0,0,0,1,0
+YER070W,RNR1,RiboNucleotide Reductase,2,0,0,1,0,1,0
+YER141W,COX15,Cytochrome c OXidase,2,0,0,0,0,1,0
+YER178W,PDA1,Pyruvate Dehydrogenase Alpha,2,0,0,0,0,1,0
+YFL018C,LPD1,LiPoamide Dehydrogenase,2,0,0,0,0,1,0
+YFR033C,QCR6,ubiQuinol-cytochrome C oxidoReductase,2,0,0,0,0,1,0
+YGL119W,COQ8,COenzyme Q,2,0,0,0,0,1,0
+YGL187C,COX4,Cytochrome c OXidase,2,0,0,0,0,1,0
+YGL191W,COX13,Cytochrome c OXidase,2,0,0,0,0,0,0
+YGR171C,MSM1,"Mitochondrial aminoacyl-tRNA Synthetase, Methionine",2,0,0,0,0,1,0
+YGR180C,RNR4,RiboNucleotide Reductase,2,0,0,0,0,1,0
+YGR243W,MPC3,Mitochondrial Pyruvate Carrier,2,0,0,0,0,1,0
+YGR255C,COQ6,COenzyme Q,2,0,0,0,0,1,0
+YGR260W,TNA1,Transporter of Nicotinic Acid,2,0,0,0,0,1,0
+YHR002W,LEU5,LEUcine biosynthesis,2,0,0,0,0,1,0
+YHR011W,DIA4,Digs Into Agar,2,0,0,0,0,1,0
+YHR039C-A,VMA10,,2,0,0,0,0,1,0
+YHR051W,COX6,Cytochrome c OXidase,2,0,0,0,0,1,0
+YHR067W,HTD2,Hydroxyacyl-Thioester Dehydratase,2,0,0,0,0,1,0
+YHR091C,MSR1,Mitochondrial tRNA Synthetase aRginine,2,0,0,0,0,1,0
+YIL125W,KGD1,alpha-KetoGlutarate Dehydrogenase,2,0,0,0,0,1,0
+YIL134W,FLX1,FLavin eXchange,2,0,0,0,0,1,0
+YJL045W,,,2,0,0,0,0,1,0
+YJL101C,GSH1,glutathione (GSH),2,0,0,0,1,1,0
+YJL121C,RPE1,Ribulose 5-Phosphate Epimerase,2,0,0,0,1,1,0
+YJL155C,FBP26,Fructose BisPhosphatase,2,0,0,0,1,1,0
+YJL166W,QCR8,ubiQuinol-cytochrome C oxidoReductase,2,0,0,0,0,1,0
+YJR048W,CYC1,CYtochrome C,2,0,0,0,0,1,0
+YJR077C,MIR1,Mitochondrial Import Receptor,2,0,0,0,0,1,0
+YKL016C,ATP7,ATP synthase,2,0,0,0,0,1,0
+YKL055C,OAR1,3-Oxoacyl-[Acyl-carrier-protein] Reductase,2,0,0,0,0,1,0
+YKL080W,VMA5,Vacuolar Membrane Atpase,2,0,0,0,0,1,0
+YKL085W,MDH1,Malate DeHydrogenase,2,0,0,0,0,1,0
+YKL106W,AAT1,Aspartate AminoTransferase,2,0,0,0,0,1,0
+YKL141W,SDH3,Succinate DeHydrogenase,2,0,1,1,0,1,0
+YKL174C,TPO5,Transporter of POlyamines,2,0,0,0,0,1,0
+YKL194C,MST1,"Mitochondrial aminoacyl-tRNA Synthetase, Threonine",2,0,0,0,0,1,0
+YKL212W,SAC1,Suppressor of ACtin,2,0,0,0,1,1,0
+YLR027C,AAT2,Aspartate AminoTransferase,2,0,0,1,0,1,0
+YLR038C,COX12,Cytochrome c OXidase,2,0,0,0,0,1,0
+YLR056W,ERG3,ERGosterol biosynthesis,2,0,0,0,1,1,0
+YLR070C,XYL2,,2,0,0,0,0,1,0
+YLR201C,COQ9,COenzyme Q,2,0,0,0,0,1,0
+YLR260W,LCB5,Long-Chain Base,2,0,0,0,0,1,0
+YLR295C,ATP14,ATP synthase,2,0,0,0,0,1,0
+YLR377C,FBP1,"Fructose-1,6-BisPhosphatase",2,0,0,0,0,1,0
+YLR382C,NAM2,Nuclear Accommodation of Mitochondria,2,0,0,0,0,1,0
+YLR395C,COX8,Cytochrome c OXidase,2,0,0,0,0,1,0
+YLR447C,VMA6,Vacuolar Membrane Atpase,2,0,0,0,0,1,0
+YML004C,GLO1,GLyOxalase,2,0,0,0,0,1,0
+YML081C-A,ATP18,ATP synthase,2,0,0,0,0,1,0
+YML110C,COQ5,COenzyme Q,2,0,0,0,0,1,0
+YML120C,NDI1,NADH Dehydrogenase Internal,2,0,0,0,0,1,0
+YMR015C,ERG5,ERGosterol biosynthesis,2,0,0,0,1,1,0
+YMR207C,HFA1,,2,0,0,0,0,1,0
+YMR267W,PPA2,PyroPhosphatAse,2,0,0,0,0,1,0
+YMR293C,HER2,Hmg2p ER Remodeling,2,0,0,0,0,1,0
+YNL037C,IDH1,Isocitrate DeHydrogenase,2,0,0,0,0,1,0
+YNL071W,LAT1,,2,0,0,0,0,1,0
+YNL073W,MSK1,"Mitochondrial aminoacyl-tRNA Synthetase, lysine (K)",2,0,0,0,0,1,0
+YNL106C,INP52,INositol polyphosphate 5-Phosphatase,2,0,0,0,0,1,0
+YNL117W,MLS1,MaLate Synthase,2,0,0,0,0,1,0
+YNL169C,PSD1,PhosphatidylSerine Decarboxylase,2,0,0,0,0,0,0
+YNR001C,CIT1,CITrate synthase,2,0,0,0,0,1,0
+YNR041C,COQ2,COenzyme Q,2,0,0,0,0,1,0
+YOL033W,MSE1,"Mitochondrial aminoacyl-tRNA Synthetase, Glutamate (E)",2,0,0,0,0,1,0
+YOL096C,COQ3,COenzyme Q,2,0,0,0,0,1,0
+YOL126C,MDH2,Malate DeHydrogenase,2,0,0,0,0,1,0
+YOR065W,CYT1,CYTochrome c1,2,0,0,0,0,1,0
+YOR136W,IDH2,Isocitrate DeHydrogenase,2,0,0,0,0,1,0
+YOR142W,LSC1,Ligase of Succinyl-CoA,2,0,0,0,0,1,0
+YOR155C,ISN1,IMP-Specific 5'-Nucleotidase,2,0,0,0,0,1,0
+YOR221C,MCT1,Malonyl-CoA:ACP Transferase,2,0,0,0,0,1,0
+YOR241W,MET7,METhionine requiring,2,0,0,0,1,1,0
+YOR323C,PRO2,PROline requiring,2,0,0,0,0,0,0
+YOR360C,PDE2,PhosphoDiEsterase,2,0,0,0,0,1,0
+YOR375C,GDH1,Glutamate DeHydrogenase,2,0,0,0,0,1,0
+YPL040C,ISM1,Isoleucyl tRNA Synthetase of Mitochondria,2,0,0,0,0,1,0
+YPL059W,GRX5,GlutaRedoXin,2,0,0,0,1,1,0
+YPL078C,ATP4,ATP synthase,2,0,0,0,0,1,0
+YPL097W,MSY1,"Mitochondrial aminoacyl-tRNA Synthetase, tyrosine (Y)",2,0,0,0,0,1,0
+YPL104W,MSD1,"Mitochondrial aminoacyl-tRNA Synthetase, Aspartate (D)",2,0,0,0,0,1,0
+YPL148C,PPT2,Phosphopantetheine:Protein Transferase,2,0,0,0,0,1,0
+YPL172C,COX10,Cytochrome c OXidase,2,0,0,0,0,1,0
+YPL234C,VMA11,Vacuolar Membrane Atpase,2,0,0,0,0,1,0
+YPL262W,FUM1,FUMarase,2,0,0,0,0,1,0
+YPL265W,DIP5,DIcarboxylic amino acid Permease,2,0,0,0,0,1,0
+YPL271W,ATP15,ATP synthase,2,0,0,0,0,1,0
+YPR020W,ATP20,ATP synthase,2,0,0,0,0,1,0
+YPR021C,AGC1,Aspartate-Glutamate Carrier,2,0,0,0,0,1,0
+YPR047W,MSF1,"Mitochondrial aminoacyl-tRNA Synthetase, Phenylalanine (F)",2,0,0,0,0,1,0
+YPR191W,QCR2,QH2:cytochrome-C oxidoReductase,2,0,0,0,0,1,0
+YBR196C,PGI1,PhosphoGlucoIsomerase,0,1,1,1,0,0,0
+YDR173C,ARG82,ARGinine requiring,0,1,0,0,1,0,1
+YGL084C,GUP1,Glycerol UPtake,0,1,0,1,0,1,1
+YOR209C,NPT1,Nicotinate PhosphoribosylTransferase,0,1,0,0,0,0,1
+YPL061W,ALD6,ALdehyde Dehydrogenase,0,1,0,0,0,0,1
+YPL069C,BTS1,Bet Two Suppressor,0,1,0,0,0,0,0
+YER170W,ADK2,ADenylate Kinase,0,2,0,0,0,0,1
+YHR123W,EPT1,EthanolaminePhosphoTransferase,0,2,0,0,0,0,1
+YJR001W,AVT1,Amino acid Vacuolar Transport,0,2,0,0,0,0,1
+YKL192C,ACP1,Acyl Carrier Protein,0,2,0,1,0,0,0
+YML070W,DAK1,DihydroxyAcetone Kinase,0,2,0,0,0,0,1
+YMR056C,AAC1,ADP/ATP Carrier,0,2,0,0,0,0,1
+YMR246W,FAA4,Fatty Acid Activation,0,2,0,0,0,0,1
+YOR245C,DGA1,DiacylGlycerol Acyltransferase,0,2,0,0,0,0,1
+YLR153C,ACS2,Acetyl CoA Synthetase,1,1,1,1,0,0,0
+YAL012W,CYS3,CYStathionine gamma-lyase,1,1,0,1,1,1,0
+YAR015W,ADE1,ADEnine requiring,1,1,0,0,1,0,0
+YBL033C,RIB1,RIBoflavin biosynthesis,1,1,0,0,0,1,1
+YBL076C,ILS1,IsoLeucine-tRNA Synthetase,1,1,1,1,0,0,0
+YBR004C,GPI18,GlycosylPhosphatidylInositol,1,1,1,1,0,0,0
+YBR011C,IPP1,Inorganic PyroPhosphatase,1,1,1,1,0,0,0
+YBR029C,CDS1,CDP-Diacylglycerol Synthase,1,1,1,1,0,0,0
+YBR041W,FAT1,FATty acid transporter,1,1,0,0,0,0,0
+YBR115C,LYS2,LYSine requiring,1,1,0,0,0,0,0
+YBR126C,TPS1,Trehalose-6-Phosphate Synthase,1,1,0,0,1,0,1
+YBR127C,VMA2,Vacuolar Membrane Atpase,1,1,0,0,1,1,0
+YBR153W,RIB7,RIBoflavin biosynthesis,1,1,1,1,0,0,0
+YBR166C,TYR1,TYRosine,1,1,0,0,0,0,1
+YBR176W,ECM31,ExtraCellular Mutant,1,1,0,0,1,0,1
+YBR192W,RIM2,Replication In Mitochondria,1,1,1,1,0,0,0
+YBR248C,HIS7,HIStidine requiring,1,1,0,0,1,0,0
+YBR252W,DUT1,DUTp pyrophosphatase,1,1,1,1,1,0,0
+YBR256C,RIB5,RIBoflavin biosynthesis,1,1,1,1,0,0,0
+YBR265W,TSC10,Temperature-sensitive Suppressors of Csg2 mutants,1,1,1,1,0,0,0
+YCL018W,LEU2,LEUcine biosynthesis,1,1,0,0,0,0,0
+YCL030C,HIS4,HIStidine requiring,1,1,0,0,0,0,0
+YCR012W,PGK1,3-PhosphoGlycerate Kinase,1,1,1,1,0,0,0
+YCR034W,ELO2,fatty acid ELOngation,1,1,0,0,0,0,0
+YCR053W,THR4,THReonine requiring,1,1,0,0,1,1,0
+YDL015C,TSC13,Temperature-sensitive Suppressors of Csg2 mutants,1,1,1,1,0,0,0
+YDL045C,FAD1,FAD synthetase,1,1,1,1,0,0,0
+YDL055C,PSA1,,1,1,1,1,0,0,0
+YDR007W,TRP1,TRyPtophan,1,1,0,0,1,0,0
+YDR023W,SES1,SEryl-tRNA Synthetase,1,1,1,1,0,0,0
+YDR037W,KRS1,Lysyl (K) tRNA Synthetase,1,1,1,1,0,0,0
+YDR050C,TPI1,Triose-Phosphate Isomerase,1,1,1,1,0,0,0
+YDR062W,LCB2,Long-Chain Base,1,1,1,1,0,0,0
+YDR074W,TPS2,Trehalose-6-Phosphate Synthase/phosphatase,1,1,0,0,1,0,1
+YDR127W,ARO1,AROmatic amino acid requiring,1,1,0,0,0,0,0
+YDR158W,HOM2,HOMoserine requiring,1,1,0,0,0,0,0
+YDR226W,ADK1,ADenylate Kinase,1,1,0,1,1,1,0
+YDR234W,LYS4,LYSine requiring,1,1,0,0,0,0,0
+YDR236C,FMN1,FMN biosynthesis,1,1,1,1,0,0,0
+YDR341C,,,1,1,1,1,0,0,0
+YDR353W,TRR1,ThioRedoxin Reductase,1,1,1,1,0,0,0
+YDR354W,TRP4,TRyPtophan,1,1,0,0,1,0,1
+YDR367W,KEI1,Kex2-cleavable protein Essential for Inositol phosphorylceramide synthesis,1,1,1,1,0,0,0
+YDR408C,ADE8,ADEnine requiring,1,1,0,0,1,0,0
+YDR454C,GUK1,GUanylate Kinase,1,1,1,1,0,0,0
+YDR487C,RIB3,RIBoflavin biosynthesis,1,1,1,1,0,0,0
+YDR531W,CAB1,Coenzyme A Biosynthesis,1,1,1,1,0,0,0
+YEL021W,URA3,URAcil requiring,1,1,0,0,1,0,0
+YEL027W,VMA3,Vacuolar Membrane Atpase,1,1,0,0,1,1,0
+YEL051W,VMA8,Vacuolar Membrane Atpase,1,1,0,0,1,1,0
+YER023W,PRO3,PROline requiring,1,1,1,1,0,0,0
+YER026C,CHO1,CHOline requiring,1,1,0,0,1,0,0
+YER043C,SAH1,S-Adenosyl-l-Homocysteine hydrolase,1,1,1,1,0,0,0
+YER052C,HOM3,HOMoserine requiring,1,1,0,0,0,0,0
+YER055C,HIS1,HIStidine,1,1,0,0,0,0,0
+YER069W,"ARG5,6",ARGinine requiring,1,1,0,0,0,0,0
+YER086W,ILV1,IsoLeucine-plus-Valine requiring,1,1,0,0,0,0,0
+YER090W,TRP2,TRyPtophan,1,1,0,0,0,0,0
+YER091C,MET6,METhionine requiring,1,1,0,0,1,0,0
+YFL022C,FRS2,phenylalanyl (F)-tRNA Synthetase,1,1,1,1,0,0,0
+YFL045C,SEC53,SECretory,1,1,1,1,0,0,0
+YFR025C,HIS2,HIStidine requiring,1,1,0,0,0,0,0
+YFR030W,MET10,METhionine requiring,1,1,0,0,1,0,0
+YGL009C,LEU1,LEUcine biosynthesis,1,1,0,0,0,0,0
+YGL012W,ERG4,ERGosterol biosynthesis,1,1,0,0,1,1,0
+YGL026C,TRP5,TRyPtophan,1,1,0,0,1,0,0
+YGL055W,OLE1,OLEic acid requiring,1,1,1,1,0,0,0
+YGL080W,MPC1,Mitochondrial Pyruvate Carrier,1,1,0,0,1,0,0
+YGL154C,LYS5,LYSine requiring,1,1,0,0,0,0,0
+YGL234W,"ADE5,7",ADEnine requiring,1,1,0,0,1,0,0
+YGL245W,GUS1,GlUtamyl-tRNA Synthetase,1,1,1,1,0,0,0
+YGR020C,VMA7,Vacuolar Membrane Atpase,1,1,0,0,1,1,0
+YGR037C,ACB1,Acyl-CoA-Binding,1,1,0,0,0,0,0
+YGR061C,ADE6,ADEnine requiring,1,1,0,0,1,0,0
+YGR094W,VAS1,VAlyl-tRNA Synthetase,1,1,1,1,0,0,0
+YGR155W,CYS4,CYStathionine beta-synthase,1,1,0,1,1,1,0
+YGR185C,TYS1,TYrosyl-tRNA Synthetase,1,1,1,1,0,0,0
+YGR204W,ADE3,ADEnine requiring,1,1,0,0,0,0,0
+YGR264C,MES1,MEthionyl-tRNA Synthetase,1,1,1,1,0,0,0
+YGR277C,CAB4,Coenzyme A Biosynthesis,1,1,1,1,0,0,0
+YHR018C,ARG4,ARGinine requiring,1,1,0,0,0,0,0
+YHR019C,DED81,Defines Essential Domain,1,1,1,1,0,0,0
+YHR020W,,,1,1,1,1,0,0,0
+YHR025W,THR1,THReonine requiring,1,1,0,0,1,1,0
+YHR026W,VMA16,Vacuolar Membrane Atpase,1,1,0,0,1,1,0
+YHR074W,QNS1,glutamine (Q) dependent Nad+ Synthetase,1,1,1,1,0,0,0
+YHR128W,FUR1,5-FluoroURidine resistant,1,1,1,1,0,0,0
+YHR162W,MPC2,Mitochondrial Pyruvate Carrier,1,1,0,0,1,0,0
+YHR208W,BAT1,Branched-chain Amino acid Transaminase,1,1,0,0,1,0,0
+YIL020C,HIS6,HIStidine requiring,1,1,0,0,0,0,0
+YIL078W,THS1,THreonyl tRNA Synthetase,1,1,1,1,0,0,0
+YIL094C,LYS12,LYSine requiring,1,1,0,0,0,0,0
+YIL116W,HIS5,HIStidine requiring,1,1,0,0,0,0,0
+YIL145C,PAN6,PANtothenate biosynthesis,1,1,0,0,1,0,0
+YIR034C,LYS1,LYSine requiring,1,1,0,0,0,0,1
+YJL005W,CYR1,CYclic AMP Requirement,1,1,1,1,0,0,0
+YJL088W,ARG3,ARGinine requiring,1,1,0,0,1,0,0
+YJL097W,PHS1,PTPLA Homolog involved in Sphingolipid biosynthesis 1,1,1,1,1,0,0,0
+YJL026W,RNR2,RiboNucleotide Reductase,1,1,1,1,0,0,0
+YJL130C,URA2,URAcil requiring,1,1,0,0,1,0,1
+YJL153C,INO1,INOsitol requiring,1,1,0,0,1,0,0
+YJR016C,ILV3,IsoLeucine-plus-Valine requiring,1,1,1,1,1,0,0
+YJR073C,OPI3,OverProducer of Inositol,1,1,0,0,0,1,1
+YJR137C,MET5,METhionine requiring,1,1,0,0,1,0,0
+YJR139C,HOM6,HOMoserine requiring,1,1,0,0,0,0,1
+YKL001C,MET14,METhionine requiring,1,1,0,0,1,0,0
+YKL004W,AUR1,AUreobasidin A Resistance,1,1,1,1,0,0,0
+YKL024C,URA6,URAcil requiring,1,1,1,1,0,0,0
+YKL035W,UGP1,UDP-glucose pyrophosphorylase,1,1,1,1,0,0,0
+YKL060C,FBA1,"Fructose-1,6-Bisphosphate Aldolase",1,1,1,1,0,0,0
+YKL067W,YNK1,Yeast Nucleoside diphosphate Kinase,1,1,0,0,0,0,0
+YKL088W,CAB3,Coenzyme A Biosynthesis,1,1,1,1,0,0,0
+YKL104C,GFA1,Glutamine:Fructose-6-phosphate Amidotransferase,1,1,1,1,0,0,0
+YKL182W,FAS1,Fatty Acid Synthetase,1,1,1,1,1,0,0
+YKL211C,TRP3,TRyPtophan,1,1,0,0,0,0,0
+YKL216W,URA1,URAcil requiring,1,1,0,0,1,0,1
+YLL018C,DPS1,,1,1,1,1,0,1,0
+YLR060W,FRS1,phenylalanyl (F)-tRNA Synthetase,1,1,1,1,0,0,0
+YLR303W,MET17,METhionine requiring,1,1,0,0,1,0,0
+YLR304C,ACO1,ACOnitase,1,1,0,0,1,1,1
+YLR355C,ILV5,IsoLeucine-plus-Valine requiring,1,1,1,1,0,0,0
+YLR359W,ADE13,ADEnine requiring,1,1,1,1,1,0,0
+YLR372W,ELO3,fatty acid ELOngation,1,1,0,0,0,0,1
+YLR420W,URA4,URAcil requiring,1,1,0,0,1,0,0
+YML008C,ERG6,ERGosterol biosynthesis,1,1,0,0,1,0,0
+YMR062C,ARG7,ARGinine requiring,1,1,0,0,1,0,0
+YMR108W,ILV2,IsoLeucine-plus-Valine requiring,1,1,1,0,0,0,0
+YMR113W,FOL3,FOLic acid synthesis,1,1,1,1,1,0,0
+YMR202W,ERG2,ERGosterol biosynthesis,1,1,0,0,1,1,0
+YMR217W,GUA1,GUanine Auxotroph,1,1,0,0,1,0,0
+YMR289W,ABZ2,para-AminoBenZoic acid (PABA) biosynthesis,1,1,0,0,1,0,0
+YMR296C,LCB1,Long-Chain Base,1,1,1,1,0,0,0
+YMR298W,LIP1,Lag1p/Lac1p Interacting Protein,1,1,1,1,0,0,0
+YMR300C,ADE4,ADEnine requiring,1,1,0,0,1,0,0
+YNL003C,PET8,PETite colonies,1,1,0,0,1,1,0
+YNL220W,ADE12,ADEnine requiring,1,1,0,0,1,0,0
+YNL247W,CRS1,"Cysteinyl-tRNA Synthetase, CysRS",1,1,1,1,0,0,0
+YNL256W,FOL1,FOLic acid synthesis,1,1,1,1,1,0,0
+YNL277W,MET2,METhionine requiring,1,1,0,0,1,0,0
+YNL316C,PHA2,PHenylAlanine requiring,1,1,0,0,1,0,0
+YNR016C,ACC1,Acetyl-CoA Carboxylase,1,1,1,1,0,0,0
+YNR050C,LYS9,LYSine requiring,1,1,0,0,0,0,1
+YOL058W,ARG1,ARGinine requiring,1,1,0,0,1,0,0
+YOL064C,MET22,METhionine requiring,1,1,0,0,1,0,0
+YOL066C,RIB2,RIBoflavin biosynthesis,1,1,1,1,0,0,0
+YOL097C,WRS1,W (tryptophan) RS (tRNA synthetase),1,1,1,1,0,0,0
+YOL143C,RIB4,RIBoflavin biosynthesis,1,1,0,0,0,1,1
+YOR095C,RKI1,Ribose-5-phosphate Ketol-Isomerase,1,1,1,1,0,0,0
+YOR128C,ADE2,ADEnine requiring,1,1,0,0,1,0,0
+YOR143C,THI80,THIamine metabolism,1,1,1,1,0,0,0
+YOR168W,GLN4,GLutamiNe metabolism,1,1,1,1,0,0,0
+YOR202W,HIS3,HIStidine,1,1,0,0,1,0,0
+YOR335C,ALA1,ALAnyl-tRNA synthetase,1,1,1,1,0,0,0
+YPL160W,CDC60,Cell Division Cycle,1,1,1,1,0,0,0
+YPL231W,FAS2,Fatty Acid Synthetase,1,1,1,1,1,0,0
+YPR033C,HTS1,Histidine-Trna Synthetase,1,1,1,1,0,0,0
+YPR035W,GLN1,GLutamiNe metabolism,1,1,1,1,0,0,0
+YPR036W,VMA13,Vacuolar Membrane Atpase,1,1,0,0,1,1,0
+YPR060C,ARO7,AROmatic amino acid requiring,1,1,0,0,1,0,1
+YPR113W,PIS1,Phosphatidyl Inositol Synthase,1,1,1,1,0,0,0
+YPR167C,MET16,METhionine requiring,1,1,0,0,1,0,0
+YPR183W,DPM1,Dolichol Phosphate Mannose synthase,1,1,1,1,0,0,0
+YAL023C,PMT2,Protein O-MannosylTransferase,2,2,0,0,1,0,1
+YBL042C,FUI1,5-FlUorourIdine resistance,2,2,0,0,0,0,1
+YBL099W,ATP1,ATP synthase,2,2,0,0,0,1,1
+YBR039W,ATP3,ATP synthase,2,2,0,0,0,1,1
+YBR069C,TAT1,Tyrosine and tryptophan Amino acid Transporter,2,2,0,0,0,0,1
+YBR205W,KTR3,Kre Two Related,2,2,0,0,0,0,1
+YBR208C,"DUR1,2",Degradation of URea,2,2,0,0,0,0,1
+YCL050C,APA1,AP4A phosphorylase,2,2,0,0,0,0,1
+YDL090C,RAM1,RAS protein and A-factor Maturation,2,2,0,0,0,0,1
+YDR017C,KCS1,pKC1 Suppressor,2,2,0,0,1,0,1
+YDR148C,KGD2,alpha-KetoGlutarate Dehydrogenase,2,2,0,0,0,1,1
+YDR300C,PRO1,PROline requiring,2,2,0,0,1,0,1
+YDR453C,TSA2,Thiol-Specific Antioxidant,2,2,0,0,0,0,1
+YEL039C,CYC7,CYtochrome C,2,2,0,0,0,0,1
+YEL041W,YEF1,,2,2,0,0,1,0,1
+YEL046C,GLY1,GLYcine requiring,2,2,0,0,0,0,1
+YER060W,FCY21,FluoroCYtosine resistance,2,2,0,0,0,0,1
+YFR019W,FAB1,Forms Aploid and Binucleate cells,2,2,0,0,1,1,1
+YGL148W,ARO2,AROmatic amino acid requiring,2,2,0,0,0,0,1
+YGL253W,HXK2,HeXoKinase,2,2,0,0,0,0,1
+YGR087C,PDC6,Pyruvate DeCarboxylase,2,2,0,0,0,0,1
+YGR183C,QCR9,ubiQuinol-cytochrome C oxidoReductase,2,2,0,0,0,1,1
+YGR194C,XKS1,XyluloKinaSe,2,2,0,0,0,0,0
+YGR240C,PFK1,PhosphoFructoKinase,2,2,0,0,0,0,1
+YHL011C,PRS3,PhosphoRibosylpyrophosphate Synthetase,2,2,0,0,0,0,1
+YHR104W,GRE3,Genes de Respuesta a Estres (stress responsive genes),2,2,0,0,1,0,1
+YHR106W,TRR2,ThioRedoxin Reductase,2,2,0,0,0,0,1
+YHR183W,GND1,6-phosphoGlucoNateDehydrogenase,2,2,0,0,0,0,1
+YIR028W,DAL4,Degradation of Allantoin,2,2,0,0,0,0,1
+YJL068C,,,2,2,0,0,0,0,1
+YJL129C,TRK1,TRansport of potassium (K),2,2,0,0,0,0,1
+YJL216C,IMA5,IsoMAltase,2,2,0,0,0,0,1
+YJR095W,SFC1,Succinate-Fumarate Carrier,2,2,0,0,0,0,1
+YJR105W,ADO1,ADenOsine kinase,2,2,0,0,0,0,1
+YJR121W,ATP2,ATP synthase,2,2,0,0,0,1,1
+YKL148C,SDH1,Succinate DeHydrogenase,2,2,0,0,0,1,1
+YKL152C,GPM1,Glycerate PhosphoMutase,2,2,1,1,0,1,1
+YKR039W,GAP1,General Amino acid Permease,2,2,0,0,0,0,1
+YKR053C,YSR3,Yeast Sphingolipid Resistance,2,2,0,0,0,0,0
+YKR061W,KTR2,Kre Two Related,2,2,0,0,0,0,1
+YKR072C,SIS2,SIt4 Suppressor,2,2,0,0,0,0,1
+YKR080W,MTD1,Methylene Tetrahydrafolate Dehydrogenase,2,2,0,0,1,0,1
+YLL041C,SDH2,Succinate DeHydrogenase,2,2,0,0,0,1,1
+YLL057C,JLP1,dnaJ-Like Protein,2,2,0,0,0,0,1
+YLR044C,PDC1,Pyruvate DeCarboxylase,2,2,0,0,0,0,1
+YLR089C,ALT1,ALanine Transaminase,2,2,0,0,1,0,1
+YLR240W,VPS34,Vacuolar Protein Sorting,2,2,0,1,0,1,1
+YLR342W,FKS1,FK506 Sensitivity,2,2,0,0,1,0,1
+YMR054W,STV1,Similar To VPH1,2,2,0,0,0,1,1
+YMR145C,NDE1,"NADH Dehydrogenase, External",2,2,0,0,0,1,1
+YMR205C,PFK2,PhosphoFructoKinase,2,2,0,0,0,0,1
+YMR256C,COX7,Cytochrome c OXidase,2,2,0,0,0,1,1
+YNL009W,IDP3,"Isocitrate Dehydrogenase, NADP-dependent",2,2,0,0,0,0,1
+YNL052W,COX5A,Cytochrome c OXidase,2,2,0,0,0,1,1
+YNL141W,AAH1,Adenine AminoHydrolase,2,2,0,0,0,0,0
+YNR058W,BIO3,BIOtin,2,2,0,0,1,0,1
+YOL059W,GPD2,Glycerol-3-Phosphate Dehydrogenase,2,2,0,0,1,0,1
+YOL086C,ADH1,Alcohol DeHydrogenase,2,2,0,0,0,0,1
+YOR108W,LEU9,LEUcine biosynthesis,2,2,0,0,0,0,1
+YOR109W,INP53,INositol polyphosphate 5-Phosphatase,2,2,0,0,0,0,1
+YOR125C,CAT5,CATabolite repression,2,2,0,0,0,1,1
+YOR126C,IAH1,Isoamyl Acetate-Hydrolyzing esterase,2,2,0,0,0,0,1
+YOR184W,SER1,SERine requiring,2,2,0,0,0,0,1
+YOR303W,CPA1,Carbamyl Phosphate synthetase A,2,2,0,0,0,0,1
+YOR332W,VMA4,Vacuolar Membrane Atpase,2,2,0,0,0,1,1
+YPL087W,YDC1,Yeast DihydroCeramidase,2,2,0,0,0,0,1
+YPL188W,POS5,PerOxide Sensitive,2,2,0,0,0,1,1
+YPL244C,HUT1,Homolog of UDP-galactose Transporter,2,2,0,0,0,0,1
+YPL268W,PLC1,PhosphoLipase C,2,2,0,1,1,1,1
+YPR074C,TKL1,TransKetoLase,2,2,0,0,1,0,1
+YPR138C,MEP3,,2,2,0,0,0,0,1
+YPR159W,KRE6,Killer toxin REsistant,2,2,0,0,0,1,1
+YPR160W,GPH1,Glycogen PHosphorylase,2,2,0,0,0,0,1
+Q0130,OLI1,OLIgomycin resistance,0,0,0,0,0,0,0
+YAL022C,FUN26,Function Unknown Now,0,0,0,0,0,0,0
+YAL038W,CDC19,Cell Division Cycle,0,0,1,1,0,0,0
+YAL060W,BDH1,Butanediol DeHydrogenase,0,0,0,0,0,0,0
+YAL062W,GDH3,Glutamate DeHydrogenase,0,0,0,0,0,0,0
+YAR035W,YAT1,,0,0,0,0,0,0,0
+YAR071W,PHO11,PHOsphate metabolism,0,0,0,0,0,0,0
+YBL011W,SCT1,Suppressor of Choline-Transport mutants,0,0,0,0,1,0,0
+YBL015W,ACH1,Acetyl CoA Hydrolase,0,0,0,0,0,0,0
+YBL030C,PET9,PETite,0,0,1,1,0,1,0
+YBL039C,URA7,URAcil requiring,0,0,0,0,0,0,0
+YBL064C,PRX1,PeroxiRedoXin,0,0,0,0,0,0,0
+YBL068W,PRS4,PhosphoRibosylpyrophosphate Synthetase,0,0,0,0,0,0,0
+YBL098W,BNA4,Biosynthesis of Nicotinic Acid,0,0,0,0,1,0,0
+YBR002C,RER2,Retention in the Endoplasmic Reticulum,0,0,1,1,0,0,0
+YBR006W,UGA2,Utilization of GAba,0,0,0,0,0,0,0
+YBR018C,GAL7,GALactose metabolism,0,0,0,0,0,0,0
+YBR019C,GAL10,GALactose metabolism,0,0,0,0,0,0,0
+YBR020W,GAL1,GALactose metabolism,0,0,0,0,0,0,0
+YBR023C,CHS3,CHitin Synthase-related,0,0,0,0,0,0,0
+YBR034C,HMT1,HnRNP MethylTransferase,0,0,0,0,0,0,0
+YBR036C,CSG2,Calcium Sensitive Growth,0,0,0,0,0,0,0
+YBR038W,CHS2,CHitin Synthase,0,0,1,1,0,0,0
+YBR058C-A,TSC3,Temperature-sensitive Suppressors of Csg2 mutants,0,0,0,0,0,0,0
+YBR068C,BAP2,Branched-chain Amino acid Permease,0,0,0,0,0,0,0
+YBR085W,AAC3,ADP/ATP Carrier,0,0,0,0,0,0,0
+YBR092C,PHO3,PHOsphate metabolism,0,0,0,0,0,0,0
+YBR093C,PHO5,PHOsphate metabolism,0,0,0,0,0,0,0
+YBR110W,ALG1,Asparagine-Linked Glycosylation,0,0,1,1,0,0,0
+YBR117C,TKL2,TransKetoLase,0,0,0,0,0,0,0
+YBR132C,AGP2,high-Affinity Glutamine Permease,0,0,0,0,0,0,0
+YBR145W,ADH5,Alcohol DeHydrogenase,0,0,0,0,0,0,0
+YBR149W,ARA1,D-ARAbinose dehydrogenase,0,0,0,0,0,0,0
+YBR159W,IFA38,,0,0,0,0,0,0,0
+YBR161W,CSH1,CSG1/SUR1 Homolog,0,0,0,0,0,0,0
+YBR180W,DTR1,DiTyRosine,0,0,0,0,0,0,0
+YBR183W,YPC1,Yeast Phyto-Ceramidase,0,0,0,0,1,0,0
+YBR199W,KTR4,Kre Two Related,0,0,0,0,0,0,0
+YBR213W,MET8,METhionine requiring,0,0,0,0,1,0,0
+YBR218C,PYC2,PYruvate Carboxylase,0,0,0,0,0,0,0
+YBR244W,GPX2,Glutathione PeroXidase,0,0,0,0,0,0,0
+YBR249C,ARO4,AROmatic amino acid requiring,0,0,0,0,0,0,0
+YBR291C,CTP1,Citrate Transport Protein,0,0,0,0,0,0,0
+YBR293W,VBA2,Vacuolar Basic Amino acid transporter,0,0,0,0,0,0,0
+YBR294W,SUL1,SULfate,0,0,0,0,0,0,0
+YBR296C,PHO89,PHOsphate metabolism,0,0,0,0,0,0,0
+YBR298C,MAL31,MALtose fermentation,0,0,0,0,0,0,0
+YBR299W,MAL32,MALtose,0,0,0,0,0,0,0
+YCL009C,ILV6,IsoLeucine Valine,0,0,0,0,0,0,0
+YCL025C,AGP1,high-Affinity Glutamine Permease,0,0,0,0,0,0,0
+YCL035C,GRX1,GlutaRedoXin,0,0,0,0,0,0,0
+YCL038C,ATG22,AuTophaGy related,0,0,0,0,0,0,0
+YCL040W,GLK1,GLucoKinase,0,0,0,0,0,0,0
+YCL052C,PBN1,Protease B Non-derepressible,0,0,1,1,0,0,0
+YCL064C,CHA1,Catabolism of Hydroxy Amino acids,0,0,0,0,0,0,0
+YCL069W,VBA3,Vacuolar Basic Amino acid transporter,0,0,0,0,0,0,0
+YCR005C,CIT2,CITrate synthase,0,0,0,0,0,0,0
+YCR010C,ADY2,Accumulation of DYads,0,0,0,0,0,0,0
+YCR024C-A,PMP1,Plasma Membrane Proteolipid,0,0,0,0,0,0,0
+YCR028C,FEN2,FENpropimorph resistance,0,0,0,0,0,0,0
+YCR036W,RBK1,RiBoKinase,0,0,0,0,0,0,0
+YCR037C,PHO87,PHOsphate metabolism,0,0,0,0,0,0,0
+YCR048W,ARE1,Acyl-coenzyme A: cholesterol acyl transferase-Related Enzyme,0,0,0,0,0,0,0
+YCR075C,ERS1,ERd Suppressor,0,0,0,0,0,0,0
+YCR083W,TRX3,ThioRedoXin,0,0,0,0,0,0,0
+YCR098C,GIT1,GlycerophosphoInosiTol,0,0,0,0,1,0,0
+YCR105W,ADH7,Alcohol DeHydrogenase,0,0,0,0,0,0,0
+YDL022W,GPD1,Glycerol-3-Phosphate Dehydrogenase,0,0,0,0,1,0,0
+YDL042C,SIR2,Silent Information Regulator,0,0,0,0,0,0,0
+YDL052C,SLC1,SphingoLipid Compensation,0,0,0,0,0,0,0
+YDL066W,IDP1,"Isocitrate Dehydrogenase, NADP-specific",0,0,0,0,1,0,0
+YDL078C,MDH3,Malate DeHydrogenase,0,0,0,0,0,0,0
+YDL080C,THI3,THIamine metabolism,0,0,0,0,0,0,0
+YDL085W,NDE2,"NADH Dehydrogenase, External",0,0,0,0,0,0,0
+YDL093W,PMT5,Protein O-MannosylTransferase,0,0,0,0,0,0,0
+YDL095W,PMT1,Protein O-MannosylTransferase,0,0,0,0,1,0,0
+YDL100C,GET3,Guided Entry of Tail-anchored proteins,0,0,0,0,0,0,0
+YDL103C,QRI1,,0,0,1,1,0,0,0
+YDL131W,LYS21,LYSine,0,0,0,0,1,0,0
+YDL141W,BPL1,Biotin:apoProtein Ligase,0,0,1,1,0,0,0
+YDL168W,SFA1,Sensitive to FormAldehyde,0,0,0,0,0,0,0
+YDL171C,GLT1,GLuTamate synthase,0,0,0,0,0,0,0
+YDL174C,DLD1,D-Lactate Dehydrogenase,0,0,0,0,0,0,0
+YDL178W,DLD2,D-Lactate Dehydrogenase,0,0,0,0,0,0,0
+YDL182W,LYS20,LYSine requiring,0,0,0,0,0,0,0
+YDL210W,UGA4,Utilization of GAba,0,0,0,0,0,0,0
+YDL215C,GDH2,Glutamate DeHydrogenase,0,0,0,0,0,0,0
+YDL238C,GUD1,GUanine Deaminase,0,0,0,0,0,0,0
+YDL245C,HXT15,HeXose Transporter,0,0,0,0,0,0,0
+YDL247W,MPH2,Maltose Permease Homolog,0,0,0,0,0,0,0
+YDR001C,NTH1,Neutral TreHalase,0,0,0,0,0,0,0
+YDR019C,GCV1,GlyCine cleaVage,0,0,0,0,0,0,0
+YDR035W,ARO3,AROmatic amino acid requiring,0,0,0,0,0,0,0
+YDR046C,BAP3,Branched-chain Amino acid Permease,0,0,0,0,0,0,0
+YDR058C,TGL2,TriacylGlycerol Lipase,0,0,0,0,0,0,0
+YDR072C,IPT1,InositolPhosphoTransferase,0,0,0,0,0,0,0
+YDR093W,DNF2,Drs2 Neo1 Family,0,0,0,0,0,0,0
+YDR098C,GRX3,GlutaRedoXin,0,0,0,0,0,0,0
+YDR135C,YCF1,Yeast Cadmium Factor,0,0,0,0,0,0,0
+YDR147W,EKI1,Ethanolamine KInase,0,0,0,0,0,0,0
+YDR191W,HST4,Homolog of SIR Two (SIR2),0,0,0,0,0,0,0
+YDR196C,CAB5,,0,0,1,1,0,0,0
+YDR208W,MSS4,Multicopy Suppressor of Stt4 mutation,0,0,1,1,0,0,0
+YDR256C,CTA1,CaTalase A,0,0,0,0,0,0,0
+YDR261C,EXG2,"EXo-1,3-beta-Glucanase",0,0,0,0,0,0,0
+YDR272W,GLO2,GLyOxalase,0,0,0,0,0,0,0
+YDR284C,DPP1,Diacylglycerol Pyrophosphate Phosphatase,0,0,0,0,0,0,0
+YDR287W,INM2,INositol Monophosphatase,0,0,0,0,0,0,0
+YDR294C,DPL1,Dihydrosphingosine Phosphate Lyase,0,0,0,0,1,0,0
+YDR297W,SUR2,SUppressor of Rvs161 and rvs167 mutations,0,0,0,0,1,0,0
+YDR302W,GPI11,GlycosylPhosphatidylInositol anchor biosynthesis,0,0,1,1,0,0,0
+YDR305C,HNT2,Histidine triad NucleoTide-binding,0,0,0,0,0,0,0
+YDR315C,IPK1,Inositol Polyphosphate Kinase,0,0,0,0,0,0,0
+YDR321W,ASP1,ASParaginase,0,0,0,0,0,0,0
+YDR342C,HXT7,HeXose Transporter,0,0,0,0,0,0,0
+YDR343C,HXT6,HeXose Transporter,0,0,0,0,0,0,0
+YDR345C,HXT3,HeXose Transporter,0,0,0,0,0,0,0
+YDR368W,YPR1,Yeast Putative Reductase,0,0,0,0,1,0,0
+YDR380W,ARO10,AROmatic amino acid requiring,0,0,0,0,0,0,0
+YDR384C,ATO3,Ammonia (Ammonium) Transport Outward,0,0,0,0,1,0,0
+YDR399W,HPT1,Hypoxanthine guanine PhosphoribosylTransferase,0,0,0,0,1,0,0
+YDR400W,URH1,URidine Hydrolase,0,0,0,0,1,0,0
+YDR402C,DIT2,DITyrosine,0,0,0,0,0,0,0
+YDR403W,DIT1,DITyrosine,0,0,0,0,1,0,0
+YDR428C,BNA7,Biosynthesis of NAD,0,0,0,0,0,0,0
+YDR481C,PHO8,PHOsphate metabolism,0,0,0,0,0,0,0
+YDR483W,KRE2,Killer toxin REsistant,0,0,0,0,0,0,0
+YDR497C,ITR1,myo-Inositol TRansporter,0,0,0,0,0,0,0
+YDR502C,SAM2,S-AdenosylMethionine requiring,0,0,0,0,0,0,0
+YDR503C,LPP1,Lipid Phosphate Phosphatase,0,0,0,0,0,0,0
+YDR508C,GNP1,GlutamiNe Permease,0,0,0,0,0,0,0
+YDR513W,GRX2,GlutaRedoXin,0,0,0,0,0,0,0
+YDR530C,APA2,AP4A phosphorylase,0,0,0,0,0,0,0
+YDR536W,STL1,Sugar Transporter-Like protein,0,0,0,0,0,0,0
+YEL006W,YEA6,,0,0,0,0,0,0,0
+YEL017C-A,PMP2,Plasma Membrane Proteolipid,0,0,0,0,0,0,0
+YEL038W,UTR4,Unidentified TRanscript,0,0,0,0,0,0,0
+YEL042W,GDA1,Guanosine DiphosphatAse,0,0,0,0,0,0,0
+YEL047C,FRD1,Fumarate ReDuctase,0,0,0,0,0,0,0
+YEL058W,PCM1,PhosphoaCetylglucosamine Mutase,0,0,1,1,0,0,0
+YEL063C,CAN1,CANavanine resistance,0,0,0,0,0,0,0
+YEL069C,HXT13,HeXose Transporter,0,0,0,0,0,0,0
+YEL071W,DLD3,D-Lactate Dehydrogenase,0,0,0,0,0,0,0
+YER003C,PMI40,PhosphoMannose Isomerase,0,0,1,1,1,0,0
+YER005W,YND1,Yeast Nucleoside Diphosphatase,0,0,0,0,0,0,0
+YER015W,FAA2,Fatty Acid Activation,0,0,0,0,0,0,0
+YER024W,YAT2,,0,0,0,0,0,0,0
+YER053C,PIC2,PI Carrier,0,0,0,0,0,0,0
+YER060W-A,FCY22,FluoroCYtosine resistance,0,0,0,0,0,0,0
+YER062C,GPP2,Glycerol-3-Phosphate Phosphatase,0,0,0,0,0,0,0
+YER065C,ICL1,IsoCitrate Lyase,0,0,0,0,0,0,0
+YER073W,ALD5,ALdehyde Dehydrogenase,0,0,0,0,0,0,0
+YER081W,SER3,SERine requiring,0,0,0,0,1,0,0
+YER099C,PRS2,PhosphoRibosylpyrophosphate Synthetase,0,0,0,0,0,0,0
+YER119C,AVT6,Amino acid Vacuolar Transport,0,0,0,0,0,0,0
+YER152C,,,0,0,0,0,1,0,0
+YER166W,DNF1,Drs2 Neo1 Family,0,0,0,0,0,0,0
+YER174C,GRX4,GlutaRedoXin,0,0,0,0,1,0,0
+YER175C,TMT1,Trans-aconitate MethylTransferase,0,0,0,0,0,0,0
+YER183C,FAU1,Folinic Acid Utilization,0,0,0,0,0,0,0
+YFL001W,DEG1,DEpressed Growth rate,0,0,0,0,0,0,0
+YFL011W,HXT10,HeXose Transporter,0,0,0,0,0,0,0
+YFL017C,GNA1,GlucosamiNe-6-phosphate Acetyltransferase,0,0,1,1,0,0,0
+YFL030W,AGX1,Alanine:Glyoxylate aminotrans(X)ferase,0,0,0,0,0,0,0
+YFL053W,DAK2,DihydroxyAcetone Kinase,0,0,0,0,0,0,0
+YFL055W,AGP3,high-Affinity Glutamine Permease,0,0,0,0,0,0,0
+YFR015C,GSY1,Glycogen SYnthase,0,0,0,0,0,0,0
+YFR047C,BNA6,Biosynthesis of Nicotinic Acid,0,0,0,0,1,0,0
+YFR053C,HXK1,HeXoKinase,0,0,0,0,0,0,0
+YGL008C,PMA1,Plasma Membrane ATPase,0,0,1,1,0,0,0
+YGL037C,PNC1,Pyrazinamidase and NiCotinamidase,0,0,0,0,0,0,0
+YGL062W,PYC1,PYruvate Carboxylase,0,0,0,0,1,0,0
+YGL063W,PUS2,PseudoUridine Synthase,0,0,0,0,0,0,0
+YGL067W,NPY1,NADH PYrophosphatase,0,0,0,0,0,0,0
+YGL077C,HNM1,Hyper-resistance to Nitrogen Mustard,0,0,0,0,0,0,0
+YGL125W,MET13,METhionine requiring,0,0,0,0,1,0,0
+YGL142C,GPI10,GlycosylPhosphatidylInositol anchor biosynthesis,0,0,1,1,0,0,0
+YGL184C,STR3,Sulfur TRansfer,0,0,0,0,0,0,0
+YGL186C,TPN1,Transport of PyridoxiNe,0,0,0,0,0,0,0
+YGL202W,ARO8,AROmatic amino acid requiring,0,0,0,0,0,0,0
+YGL205W,POX1,,0,0,0,0,0,0,0
+YGL224C,SDT1,Suppressor of Disruption of TFIIS,0,0,0,0,0,0,0
+YGL225W,VRG4,Vandate Resistance Glycosylation,0,0,1,1,0,0,0
+YGL248W,PDE1,PhosphoDiEsterase,0,0,0,0,0,0,0
+YGL256W,ADH4,Alcohol DeHydrogenase,0,0,0,0,0,0,0
+YGR007W,ECT1,Ethanolamine-phosphate CytidylylTransferase,0,0,0,0,0,0,0
+YGR010W,NMA2,Nicotinamide Mononucleotide Adenylyltransferase,0,0,0,0,0,0,0
+YGR019W,UGA1,Utilization of GAba,0,0,0,0,0,0,0
+YGR032W,GSC2,Glucan Synthase of Cerevisiae,0,0,0,0,0,0,0
+YGR055W,MUP1,Methionine UPtake,0,0,0,0,0,0,0
+YGR065C,VHT1,Vitamin H Transporter,0,0,1,1,0,0,0
+YGR088W,CTT1,CaTalase T,0,0,0,0,0,0,0
+YGR096W,TPC1,Thiamine Pyrophosphate Carrier,0,0,0,0,1,0,0
+YGR121C,MEP1,,0,0,0,0,0,0,0
+YGR124W,ASN2,ASparagiNe requiring,0,0,0,0,0,0,0
+YGR138C,TPO2,Transporter of POlyamines,0,0,0,0,0,0,0
+YGR143W,SKN1,Suppressor of Kre Null,0,0,0,0,0,0,0
+YGR157W,CHO2,CHOline requiring,0,0,0,0,0,0,0
+YGR170W,PSD2,PhosphatidylSerine Decarboxylase,0,0,0,0,0,0,0
+YGR177C,ATF2,AcetylTransFerase,0,0,0,0,0,0,0
+YGR191W,HIP1,HIstidine Permease,0,0,1,1,0,0,0
+YGR192C,TDH3,Triose-phosphate DeHydrogenase,0,0,0,0,0,0,0
+YGR193C,PDX1,Pyruvate Dehydrogenase complex protein X,0,0,0,0,0,0,0
+YGR202C,PCT1,Phosphocholine CytidylylTransferase,0,0,0,0,0,0,0
+YGR208W,SER2,SERine requiring,0,0,0,0,0,0,0
+YGR209C,TRX2,ThioRedoXin,0,0,0,0,0,0,0
+YGR244C,LSC2,Ligase of Succinyl-CoA,0,0,0,0,0,0,0
+YGR247W,CPD1,Cyclic nucleotide PhosphoDiesterase,0,0,0,0,0,0,0
+YGR248W,SOL4,Suppressor Of Los1-1,0,0,0,0,0,0,0
+YGR254W,ENO1,ENOlase,0,0,0,0,0,0,0
+YGR256W,GND2,6-phosphoGlucoNateDehydrogenase,0,0,0,0,0,0,0
+YGR267C,FOL2,FOLic acid synthesis,0,0,1,1,1,0,0
+YGR282C,BGL2,Beta-GLucanase,0,0,0,0,0,0,0
+YGR286C,BIO2,BIOtin,0,0,0,0,1,0,0
+YGR287C,IMA1,IsoMAltase,0,0,0,0,0,0,0
+YGR289C,MAL11,MALtose fermentation,0,0,0,0,0,0,0
+YGR292W,MAL12,MALtose fermentation,0,0,0,0,0,0,0
+YHL003C,LAG1,Longevity Assurance Gene,0,0,0,0,0,0,0
+YHL016C,DUR3,Degradation of URea,0,0,0,0,0,0,0
+YHL032C,GUT1,Glycerol UTilization,0,0,0,0,0,0,0
+YHL036W,MUP3,Methionine UPtake,0,0,0,0,0,0,0
+YHR001W-A,QCR10,ubiQuinol-cytochrome C oxidoReductase,0,0,0,0,0,0,0
+YHR037W,PUT2,Proline UTilization,0,0,0,0,0,0,0
+YHR046C,INM1,INositol Monophosphatase,0,0,0,0,0,0,0
+YHR063C,PAN5,PANtothenate biosynthesis,0,0,0,0,0,0,0
+YHR068W,DYS1,DeoxyhYpusine Synthase,0,0,1,1,0,0,0
+YHR092C,HXT4,HeXose Transporter,0,0,0,0,0,0,0
+YHR094C,HXT1,HeXose Transporter,0,0,0,0,0,0,0
+YHR096C,HXT5,HeXose Transporter,0,0,0,0,0,0,0
+YHR137W,ARO9,AROmatic amino acid requiring,0,0,0,0,0,0,0
+YHR144C,DCD1,dCMP Deaminase,0,0,0,0,0,0,0
+YHR163W,SOL3,Suppressor Of Los1-1,0,0,0,0,0,0,0
+YHR174W,ENO2,ENOlase,0,0,0,0,0,0,0
+YHR216W,IMD2,IMP Dehydrogenase,0,0,0,0,0,0,0
+YIL002C,INP51,INositol polyphosphate 5-Phosphatase,0,0,0,0,0,0,0
+YIL006W,YIA6,,0,0,0,0,0,0,0
+YIL009W,FAA3,Fatty Acid Activation,0,0,0,0,0,0,0
+YIL010W,DOT5,Disruptor Of Telomeric silencing,0,0,0,0,0,0,0
+YIL013C,PDR11,Pleiotropic Drug Resistance,0,0,0,0,0,0,0
+YIL053W,GPP1,Glycerol-3-Phosphate Phosphatase,0,0,0,0,0,0,0
+YIL066C,RNR3,RiboNucleotide Reductase,0,0,0,0,0,0,0
+YIL074C,SER33,SERine requiring,0,0,0,0,0,0,0
+YIL099W,SGA1,Sporulation-specific GlycoAmylase,0,0,0,0,0,0,0
+YIL107C,PFK26,6-PhosphoFructo-2-Kinase,0,0,0,0,0,0,0
+YIL111W,COX5B,Cytochrome c OXidase,0,0,0,0,0,0,0
+YIL155C,GUT2,Glycerol UTilization,0,0,0,0,0,0,0
+YIL160C,POT1,Peroxisomal Oxoacyl Thiolase,0,0,0,0,0,0,0
+YIL162W,SUC2,SUCrose,0,0,0,0,0,0,0
+YIL172C,IMA3,IsoMAltase,0,0,0,0,0,0,0
+YIR027C,DAL1,Degradation of Allantoin,0,0,0,0,0,0,0
+YIR029W,DAL2,Degradation of Allantoin,0,0,0,0,0,0,0
+YIR031C,DAL7,Degradation of Allantoin,0,0,0,0,0,0,0
+YIR032C,DAL3,Degradation of Allantoin,0,0,0,0,0,0,0
+YIR037W,HYR1,HYdroperoxide Resistance,0,0,0,0,0,0,0
+YJL052W,TDH1,Triose-phosphate DeHydrogenase,0,0,0,0,0,0,0
+YJL060W,BNA3,Biosynthesis of Nicotinic Acid,0,0,0,0,0,0,0
+YJL071W,ARG2,ARGinine requiring,0,0,0,0,1,0,0
+YJL091C,GWT1,GPI-anchored Wall protein Transfer,0,0,1,1,0,0,0
+YJL100W,LSB6,Las Seventeen Binding protein,0,0,0,0,0,0,0
+YJL134W,LCB3,Long-Chain Base,0,0,0,0,1,0,0
+YJL137C,GLG2,Glycogenin-Like Gene,0,0,0,0,0,0,0
+YJL139C,YUR1,Yeast Unknown Reading frame,0,0,0,0,0,0,0
+YJL196C,ELO1,ELOngation defective,0,0,0,0,0,0,0
+YJL198W,PHO90,PHOsphate metabolism,0,0,0,1,0,0,0
+YJL212C,OPT1,OligoPeptide Transporter,0,0,0,0,1,0,0
+YJL214W,HXT8,HeXose Transporter,0,0,0,0,1,0,0
+YJL219W,HXT9,HeXose Transporter,0,0,0,0,0,0,0
+YJL221C,IMA4,IsoMAltase,0,0,0,0,0,0,0
+YJR009C,TDH2,Triose-phosphate DeHydrogenase,0,0,0,0,0,0,0
+YJR010W,MET3,METhionine requiring,0,0,0,0,1,0,0
+YJR013W,GPI14,GlycosylPhosphatidylInositol anchor biosynthesis,0,0,1,1,0,0,0
+YJR019C,TES1,ThioESterase,0,0,0,0,0,0,0
+YJR025C,BNA1,Biosynthesis of Nicotinic Acid,0,0,0,0,1,0,0
+YJR049C,UTR1,Unidentified TRanscript,0,0,0,1,0,0,0
+YJR057W,CDC8,Cell Division Cycle,0,0,1,1,0,0,0
+YJR078W,BNA2,Biosynthesis of Nicotinic Acid,0,0,0,0,1,0,0
+YJR103W,URA8,URAcil requiring,0,0,0,0,0,0,0
+YJR109C,CPA2,Carbamyl Phosphate synthetase A,0,0,0,0,0,0,0
+YJR110W,YMR1,Yeast Myotubularin Related,0,0,0,0,0,0,0
+YJR130C,STR2,Sulfur TRansfer,0,0,0,0,0,0,0
+YJR133W,XPT1,Xanthine Phosphoribosyl Transferase,0,0,0,0,0,0,0
+YJR143C,PMT4,Protein O-MannosylTransferase,0,0,0,0,0,0,0
+YJR148W,BAT2,Branched-chain Amino acid Transaminase,0,0,0,0,0,0,0
+YJR152W,DAL5,Degradation of Allantoin,0,0,0,0,0,0,0
+YJR153W,PGU1,PolyGalactUronase,0,0,0,0,0,0,0
+YJR158W,HXT16,HeXose Transporter,0,0,0,0,0,0,0
+YJR159W,SOR1,,0,0,0,0,0,0,0
+YJR160C,MPH3,Maltose Permease Homolog,0,0,0,0,0,0,0
+YKL008C,LAC1,Longevity-Assurance gene Cognate (LAG1 Cognate),0,0,0,0,0,0,0
+YKL019W,RAM2,RAS protein and A-factor Maturation,0,0,1,1,0,0,0
+YKL026C,GPX1,Glutathione PeroXidase,0,0,0,0,0,0,0
+YKL029C,MAE1,MAlic Enzyme,0,0,0,0,0,0,0
+YKL120W,OAC1,OxaloAcetate Carrier,0,0,0,0,1,0,0
+YKL127W,PGM1,PhosphoGlucoMutase,0,0,0,0,0,0,0
+YKL132C,RMA1,Reduced Mating A,0,0,0,0,0,0,0
+YKL140W,TGL1,TriGlyceride Lipase,0,0,0,0,0,0,0
+YKL146W,AVT3,Amino acid Vacuolar Transport,0,0,0,0,0,0,0
+YKL165C,MCD4,Morphogenesis Checkpoint Dependent,0,0,1,1,0,0,0
+YKL181W,PRS1,PhosphoRibosylpyrophosphate Synthetase,0,0,0,0,0,0,0
+YKL184W,SPE1,SPErmidine auxotroph,0,0,0,0,1,0,0
+YKL188C,PXA2,PeroXisomal ABC-transporter,0,0,0,0,0,0,0
+YKL217W,JEN1,,0,0,0,0,0,0,0
+YKR009C,FOX2,Fatty acid OXidation,0,0,0,0,0,0,0
+YKR031C,SPO14,SPOrulation,0,0,0,0,0,0,0
+YKR043C,SHB17,"SedoHeptulose 1,7-Bisphosphatase",0,0,0,0,0,0,0
+YKR058W,GLG1,Glycogenin-Like Gene,0,0,0,0,0,0,0
+YKR066C,CCP1,Cytochrome c Peroxidase,0,0,0,0,0,0,0
+YKR067W,GPT2,Glycerol-3-Phosphate acylTransferase,0,0,0,0,0,0,0
+YKR069W,MET1,METhionine requiring,0,0,0,0,1,0,0
+YKR089C,TGL4,TriacylGlycerol Lipase,0,0,0,0,0,0,0
+YKR097W,PCK1,Phosphoenolpyruvate CarboxyKinase,0,0,0,0,0,0,0
+YLL012W,YEH1,Yeast steryl Ester Hydrolase,0,0,0,0,0,0,0
+YLL015W,BPT1,Bile Pigment Transporter,0,0,0,0,1,0,0
+YLL028W,TPO1,Transporter of POlyamines,0,0,0,0,0,0,0
+YLL031C,GPI13,GlycosylPhosphatidylInositol anchor biosynthesis,0,0,1,1,0,0,0
+YLL043W,FPS1,fdp1 Suppressor,0,0,0,0,1,0,0
+YLL048C,YBT1,Yeast Bile Transporter,0,0,0,0,0,0,0
+YLL052C,AQY2,AQuaporin from Yeast,0,0,0,0,0,0,0
+YLL061W,MMP1,S-MethylMethionine Permease,0,0,0,0,0,0,0
+YLL062C,MHT1,S-Methylmethionine-Homocysteine methylTransferase,0,0,0,0,0,0,0
+YLR011W,LOT6,LOw Temperature-responsive,0,0,0,0,0,0,0
+YLR017W,MEU1,Multicopy Enhancer of UAS2,0,0,0,0,0,0,0
+YLR020C,YEH2,Yeast steryl Ester Hydrolase,0,0,0,0,0,0,0
+YLR028C,ADE16,ADEnine,0,0,0,0,0,0,0
+YLR043C,TRX1,ThioRedoXin,0,0,0,0,0,0,0
+YLR058C,SHM2,Serine HydroxyMethyltransferase,0,0,0,0,0,0,0
+YLR081W,GAL2,GALactose metabolism,0,0,0,0,0,0,0
+YLR092W,SUL2,SULfate,0,0,0,0,0,0,0
+YLR109W,AHP1,Alkyl HydroPeroxide reductase,0,0,0,0,0,0,0
+YLR133W,CKI1,Choline KInase,0,0,0,0,0,0,0
+YLR134W,PDC5,Pyruvate DeCarboxylase,0,0,0,0,1,0,0
+YLR138W,NHA1,Na+/H+ Antiporter,0,0,0,0,0,0,0
+YLR142W,PUT1,Proline UTilization,0,0,0,0,0,0,0
+YLR146C,SPE4,SPErmidine auxotroph,0,0,0,0,1,0,0
+YLR155C,ASP3-1,ASParaginase,0,0,0,0,0,0,0
+YLR157C,ASP3-2,ASParaginase,0,0,0,0,0,0,0
+YLR158C,ASP3-3,ASParaginase,0,0,0,0,0,0,0
+YLR160C,ASP3-4,ASParaginase,0,0,0,0,0,0,0
+YLR172C,DPH5,DiPHthamide,0,0,0,0,0,0,0
+YLR174W,IDP2,"Isocitrate Dehydrogenase, NADP-specific",0,0,0,0,0,0,0
+YLR180W,SAM1,S-AdenosylMethionine requiring,0,0,0,0,0,0,0
+YLR189C,ATG26,AuTophaGy related,0,0,0,0,0,0,0
+YLR209C,PNP1,purine nucleoside phosphorylase,0,0,0,0,0,0,0
+YLR231C,BNA5,Biosynthesis of Nicotinic Acid,0,0,0,0,1,0,0
+YLR237W,THI7,THIamine metabolism,0,0,0,0,1,0,0
+YLR245C,CDD1,CytiDine Deaminase,0,0,0,0,0,0,0
+YLR258W,GSY2,Glycogen SYnthase,0,0,0,0,0,0,0
+YLR284C,ECI1,Enoyl-CoA Isomerase,0,0,0,0,0,0,0
+YLR285W,NNT1,Nicotinamide N-methylTransferase,0,0,0,0,0,0,0
+YLR299W,ECM38,ExtraCellular Mutant,0,0,0,0,0,0,0
+YLR300W,EXG1,"EXo-1,3-beta-Glucanase",0,0,0,0,0,0,0
+YLR305C,STT4,STaurosporine and Temperature sensitive,0,0,1,1,0,0,0
+YLR307W,CDA1,Chitin DeAcetylase,0,0,0,0,0,0,0
+YLR308W,CDA2,Chitin DeAcetylase,0,0,0,0,0,0,0
+YLR328W,NMA1,Nicotinamide Mononucleotide Adenylyltransferase,0,0,0,0,0,0,0
+YLR348C,DIC,DIcarboxylate Carrier,0,0,0,0,0,0,0
+YLR354C,TAL1,TransALdolase,0,0,0,0,1,0,0
+YLR410W,VIP1,,0,0,0,0,0,0,0
+YLR432W,IMD3,IMP Dehydrogenase,0,0,0,0,0,0,0
+YLR438W,CAR2,Catabolism of ARginine,0,0,0,0,0,0,0
+YLR450W,HMG2,3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase,0,0,0,0,0,0,0
+YML022W,APT1,Adenine PhosphoribosylTransferase,0,0,0,0,1,0,0
+YML035C,AMD1,AMP Deaminase,0,0,0,0,0,0,0
+YML042W,CAT2,Carnitine AcetylTransferase,0,0,0,0,0,0,0
+YML054C,CYB2,CYtochrome B,0,0,0,0,0,0,0
+YML056C,IMD4,IMP Dehydrogenase,0,0,0,0,0,0,0
+YML059C,NTE1,Neuropathy Target Esterase,0,0,0,0,1,0,0
+YML075C,HMG1,3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase,0,0,0,0,0,0,0
+YML086C,ALO1,"D-Arabinono-1,4-Lactone Oxidase",0,0,0,0,0,0,0
+YML100W,TSL1,Trehalose Synthase Long chain,0,0,0,0,0,0,0
+YML106W,URA5,URAcil requiring,0,0,0,0,0,0,0
+YML123C,PHO84,PHOsphate metabolism,0,0,0,0,0,0,0
+YMR006C,PLB2,PhosphoLipase B,0,0,0,0,0,0,0
+YMR008C,PLB1,PhosphoLipase B,0,0,0,0,0,0,0
+YMR009W,ADI1,Acireductone DIoxygenase,0,0,0,0,0,0,0
+YMR011W,HXT2,HeXose Transporter,0,0,0,0,0,0,0
+YMR013C,SEC59,SECretory,0,0,1,1,0,0,0
+YMR020W,FMS1,Fenpropimorph-resistance Multicopy Suppressor,0,0,0,0,1,0,0
+YMR041C,ARA2,ARAbinose,0,0,0,0,0,0,0
+YMR083W,ADH3,Alcohol DeHydrogenase,0,0,0,0,0,0,0
+YMR088C,VBA1,Vacuolar Basic Amino acid transporter,0,0,0,0,0,0,0
+YMR101C,SRT1,Suppressor of Rer-Two,0,0,0,0,0,0,0
+YMR105C,PGM2,PhosphoGlucoMutase,0,0,0,0,0,0,0
+YMR120C,ADE17,ADEnine,0,0,0,0,0,0,0
+YMR162C,DNF3,Drs2 Neo1 Family,0,0,0,0,0,0,0
+YMR169C,ALD3,ALdehyde Dehydrogenase,0,0,0,0,0,0,0
+YMR170C,ALD2,ALdehyde Dehydrogenase,0,0,0,0,1,0,0
+YMR189W,GCV2,GlyCine cleaVage,0,0,0,0,0,0,0
+YMR226C,,,0,0,0,0,0,0,0
+YMR241W,YHM2,Yeast suppressor of HM mutant,0,0,0,0,0,0,0
+YMR250W,GAD1,GlutAmate Decarboxylase,0,0,0,0,0,0,0
+YMR261C,TPS3,Trehalose Phosphate Synthase,0,0,0,0,0,0,0
+YMR271C,URA10,URAcil requiring,0,0,0,0,0,0,0
+YMR272C,SCS7,Suppressor of Ca2+ Sensitivity,0,0,0,0,1,0,0
+YMR278W,PRM15,Phospho Ribo Mutase,0,0,0,0,0,0,0
+YMR281W,GPI12,GlycosylPhosphatidylInositol anchor biosynthesis,0,0,1,1,0,0,0
+YMR303C,ADH2,Alcohol DeHydrogenase,0,0,0,0,0,0,0
+YMR313C,TGL3,TriacylGlycerol Lipase,0,0,0,0,0,0,0
+YMR318C,ADH6,Alcohol DeHydrogenase,0,0,0,0,0,0,0
+YMR319C,FET4,FErrous Transport,0,0,0,0,0,0,0
+YNL029C,KTR5,Kre Two Related,0,0,0,0,0,0,0
+YNL045W,LAP2,Leucine AminoPeptidases,0,0,0,0,0,0,0
+YNL101W,AVT4,Amino acid Vacuolar Transport,0,0,0,0,0,0,0
+YNL104C,LEU4,LEUcine biosynthesis,0,0,0,0,1,0,0
+YNL129W,NRK1,Nicotinamide Riboside Kinase,0,0,0,0,0,0,0
+YNL130C,CPT1,CholinePhosphoTransferase,0,0,0,0,0,0,0
+YNL142W,MEP2,,0,0,0,0,0,0,0
+YNL192W,CHS1,CHitin Synthase,0,0,0,0,0,0,0
+YNL202W,SPS19,SPorulation-Specific,0,0,0,0,0,0,0
+YNL241C,ZWF1,ZWischenFerment,0,0,0,0,1,0,0
+YNL267W,PIK1,Phosphatidyl Inositol Kinase,0,0,1,1,0,0,0
+YNL268W,LYP1,LYsine-specific Permease,0,0,0,0,0,0,0
+YNL270C,ALP1,,0,0,0,0,0,0,0
+YNL292W,PUS4,PseudoUridine Synthase,0,0,0,0,0,0,0
+YNL318C,HXT14,HeXose Transporter,0,0,0,0,0,0,0
+YNL325C,FIG4,Factor-Induced Gene,0,0,0,0,0,0,0
+YNR012W,URK1,URidine Kinase,0,0,0,0,0,0,0
+YNR013C,PHO91,PHOsphate metabolism,0,0,0,0,0,0,0
+YNR019W,ARE2,Acyl-coenzyme A: cholesterol acyl transferase-Related Enzyme,0,0,0,0,0,0,0
+YNR033W,ABZ1,para-AminoBenZoic acid (PABA) biosynthesis,0,0,0,0,1,0,0
+YNR056C,BIO5,BIOtin,0,0,0,0,0,0,0
+YNR057C,BIO4,BIOtin,0,0,0,0,0,0,0
+YNR067C,DSE4,Daughter Specific Expression,0,0,0,0,0,0,0
+YNR072W,HXT17,HeXose Transporter,0,0,0,0,0,0,0
+YOL011W,PLB3,PhosphoLipase B,0,0,0,0,0,0,0
+YOL020W,TAT2,Tryptophan Amino acid Transporter,0,0,0,0,0,0,0
+YOL049W,GSH2,Glutathione,0,0,0,0,0,0,0
+YOL052C,SPE2,SPErmidine auxotroph,0,0,0,0,1,0,0
+YOL055C,THI20,THIamine metabolism,0,0,0,0,0,0,0
+YOL061W,PRS5,PhosphoRibosylpyrophosphate Synthetase,0,0,0,0,0,0,0
+YOL065C,INP54,INositol polyphosphate 5-Phosphatase,0,0,0,0,0,0,0
+YOL068C,HST1,Homolog of SIR Two (SIR2),0,0,0,0,1,0,0
+YOL103W,ITR2,myo-Inositol TRansporter,0,0,0,0,0,0,0
+YOL136C,PFK27,6-PhosphoFructo-2-Kinase,0,0,0,0,0,0,0
+YOL140W,ARG8,ARGinine requiring,0,0,0,0,0,0,0
+YOL151W,GRE2,Genes de Respuesta a Estres (stress responsive genes),0,0,0,0,0,0,0
+YOL156W,HXT11,HeXose Transporter,0,0,0,0,0,0,0
+YOR011W,AUS1,ABC protein involved in Uptake of Sterols,0,0,0,0,0,0,0
+YOR025W,HST3,Homolog of SIR Two (SIR2),0,0,0,0,0,0,0
+YOR040W,GLO4,GLyOxalase,0,0,0,0,0,0,0
+YOR054C,VHS3,Viable in a Hal3 Sit4 background,0,0,0,0,0,0,0
+YOR071C,NRT1,Nicotinamide Riboside Transporter,0,0,0,0,0,0,0
+YOR074C,CDC21,Cell Division Cycle,0,0,1,1,0,0,0
+YOR081C,TGL5,TriacylGlycerol Lipase,0,0,0,0,0,0,0
+YOR099W,KTR1,Kre Two Related,0,0,0,0,0,0,0
+YOR100C,CRC1,CaRnitine Carrier,0,0,0,0,0,0,0
+YOR130C,ORT1,ORnithine Transporter,0,0,0,0,0,0,0
+YOR163W,DDP1,Diadenosine and Diphosphoinositol Polyphosphate phosphohydrolase,0,0,0,0,0,0,0
+YOR171C,LCB4,Long-Chain Base,0,0,0,0,0,0,0
+YOR175C,ALE1,Acyltransferase for Lyso-phosphatidylEthanolamine,0,0,0,0,0,0,0
+YOR180C,DCI1,"delta(3,5)-delta(2,4)-Dienoyl-CoA Isomerase",0,0,0,0,0,0,0
+YOR190W,SPR1,SPorulation Regulated,0,0,0,0,0,0,0
+YOR192C,THI72,THI7 homolog 2,0,0,0,0,0,0,0
+YOR222W,ODC2,OxoDicarboxylate Carrier,0,0,0,0,0,0,0
+YOR270C,VPH1,Vacuolar pH,0,0,0,0,1,0,0
+YOR273C,TPO4,Transporter of POlyamines,0,0,0,0,0,0,0
+YOR317W,FAA1,Fatty Acid Activation,0,0,0,0,0,0,0
+YOR321W,PMT3,Protein O-MannosylTransferase,0,0,0,0,0,0,0
+YOR347C,PYK2,PYruvate Kinase,0,0,0,0,0,0,0
+YOR348C,PUT4,Proline UTilization,0,0,0,0,0,0,0
+YOR374W,ALD4,ALdehyde Dehydrogenase,0,0,0,0,0,0,0
+YOR377W,ATF1,AcetylTransFerase,0,0,0,0,0,0,0
+YOR388C,FDH1,Formate DeHydrogenase,0,0,0,0,0,0,0
+YPL015C,HST2,Homolog of SIR Two (SIR2),0,0,0,0,0,0,0
+YPL023C,MET12,METhionine requiring,0,0,0,0,0,0,0
+YPL036W,PMA2,Plasma Membrane ATPase,0,0,0,0,0,0,0
+YPL053C,KTR6,Kre Two Related,0,0,0,0,0,0,0
+YPL057C,SUR1,SUppressor of Rvs161 and rvs167 mutations,0,0,0,0,0,0,0
+YPL091W,GLR1,GLutathione Reductase,0,0,0,0,0,0,0
+YPL092W,SSU1,Sensitive to SUlfite,0,0,0,0,0,0,0
+YPL110C,GDE1,GlycerophosphoDiEsterase,0,0,0,0,0,0,0
+YPL111W,CAR1,Catabolism of ARginine,0,0,0,0,0,0,0
+YPL134C,ODC1,OxoDicarboxylate Carrier,0,0,0,0,0,0,0
+YPL147W,PXA1,PeroXisomal ABC-transporter,0,0,0,0,0,0,0
+YPL189W,GUP2,Glycerol UPtake,0,0,0,0,0,0,0
+YPL206C,PGC1,Phosphatidyl Glycerol phospholipase C,0,0,0,0,0,0,0
+YPL212C,PUS1,PseudoUridine Synthase,0,0,0,0,0,0,0
+YPL214C,THI6,THIamine biosynthesis,0,0,0,0,1,0,0
+YPL252C,YAH1,Yeast Adrenodoxin Homolog,0,0,1,1,0,0,0
+YPL258C,THI21,THIamine metabolism,0,0,0,0,0,0,0
+YPL273W,SAM4,S-AdenosylMethionine metabolism,0,0,0,0,0,0,0
+YPL274W,SAM3,S-AdenosylMethionine metabolism,0,0,0,0,0,0,0
+YPR001W,CIT3,CITrate synthase,0,0,0,0,0,0,0
+YPR002W,PDH1,prpD Homolog,0,0,0,0,0,0,0
+YPR006C,ICL2,IsoCitrate Lyase,0,0,0,0,0,0,0
+YPR026W,ATH1,Acid TreHalase,0,0,0,0,0,0,0
+YPR062W,FCY1,FluoroCYtosine resistance,0,0,0,0,0,0,0
+YPR069C,SPE3,SPErmidine auxotroph,0,0,0,0,1,0,0
+YPR081C,GRS2,Glycyl-tRNA Synthase,0,0,0,0,0,0,0
+YPR121W,THI22,THIamine metabolism,0,0,0,0,0,0,0
+YPR128C,ANT1,Adenine Nucleotide Transporter,0,0,0,0,0,0,0
+YPR140W,TAZ1,TAfaZzin,0,0,0,0,0,0,0
+YPR145W,ASN1,ASparagiNe requiring,0,0,0,0,0,0,0
+YPR156C,TPO3,Transporter of POlyamines,0,0,0,0,0,0,0
+YPR184W,GDB1,Glycogen DeBranching,0,0,0,0,0,0,0
+YPR192W,AQY1,AQuaporin from Yeast,0,0,0,0,0,0,0
